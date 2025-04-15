@@ -8,7 +8,6 @@ A React provider for seamless integration with multiple Aleo blockchain wallets.
 - 🔄 **Unified API**: Consistent interface across different wallet implementations
 - 🛠️ **Complete Functionality**: Transactions, signatures, decryption, and record management
 - 📦 **Simple Integration**: Easy-to-use React Context and hooks
-- 🔍 **Connection Logs**: Built-in logging for debugging
 - 📝 **TypeScript Support**: Full type definitions included
 
 ## Installation
